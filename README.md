@@ -1,37 +1,37 @@
 # FAQ Answering ChatBot
 Overview
-
-The FAQ Answering ChatBot is an AI-powered chatbot designed to provide answers to frequently asked questions. It leverages the Huggingface Inference API and integrates the LLaMA large language model into a user-friendly PyQt-based GUI.
+  
+  The FAQ Answering ChatBot is an AI-powered chatbot designed to provide answers to frequently asked questions. It leverages the Huggingface Inference API and integrates the LLaMA large language model into a user-friendly PyQt-based GUI.
 
 Features:
 
-  Natural Language Processing: Uses a powerful AI model to understand and respond to user queries.
-  
-  Seamless GUI Integration: Built with PyQt for a smooth and interactive user experience.
-  
-  API Integration: Utilizes the Huggingface Inference API for real-time responses.
-  
-  Efficient Question Answering: Designed to handle FAQs accurately and quickly.
+  1. Natural Language Processing: Uses a powerful AI model to understand and respond to user queries.
+    
+  2. Seamless GUI Integration: Built with PyQt for a smooth and interactive user experience.
+    
+  3. API Integration: Utilizes the Huggingface Inference API for real-time responses.
+    
+  4. Efficient Question Answering: Designed to handle FAQs accurately and quickly.
 
 Tech Stack:
 
-  Programming Language: Python
+  - Programming Language: Python
   
-  Frameworks & Libraries: PyQt, Huggingface Inference API
+  - Frameworks & Libraries: PyQt, Huggingface Inference API
   
-  Developer Tools: Visual Studio Code, Git
+  - Developer Tools: Visual Studio Code, Git
 
 Installation:
 
 Prerequisites:
 
-  Ensure you have the following installed on your system:
+Ensure you have the following installed on your system:
   
-  Python (>=3.8)
+  1. Python (>=3.8)
 
-  pip
+  2. pip
 
-  Virtual Environment (optional but recommended)
+  3. Virtual Environment (optional but recommended)
 
 Steps:
 
@@ -55,19 +55,19 @@ Steps:
 
 Usage
 
-Launch the application.
-
-Enter your query in the input field.
-
-The chatbot will process the question and return a relevant answer.
+  1. Launch the application.
+  
+  2. Enter your query in the input field.
+  
+  3. The chatbot will process the question and return a relevant answer.
 
 Future Enhancements:
 
-  Improve model performance by fine-tuning with a custom dataset.
+  1. Improve model performance by fine-tuning with a custom dataset.
   
-  Enhance UI with additional features like voice input and text-to-speech.
+  2. Enhance UI with additional features like voice input and text-to-speech.
   
-  Deploy as a web-based application.
+  3. Deploy as a web-based application.
 
 Contribution:
 
